@@ -1,6 +1,6 @@
 # Dynamic form
 
-This form ask you some questions and gives you a budget immediately
+This form asks you some questions and gives you a budget immediately
 
 ## Project setup
 ```
