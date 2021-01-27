@@ -1,0 +1,91 @@
+{
+  "title": "¿Qué te interesa?",
+  "subtitle": "Selecciona cómo te gustaría trabajar",
+  "selected": 4,
+  "options": [
+    {
+      "id": 4,
+      "radioGroup": "interested",
+      "name": "Despacho flexible",
+      "image": "https://simplework.es/wp-content/uploads/2016/12/Despacho-ejecutivo-1-400x284.jpg",
+      "description": "Descripción de despachos flexibles y sus ventajas.",
+      "calculationVariables": { "basePrice": 5, "workerPrice": 1 },
+      "checkboxes": [
+        {
+          "name": "option1",
+          "checkboxGroup": "DespachoFlexible",
+          "description": "short description about despacho flexible",
+          "checked": true,
+          "fixed": true,
+          "impactPrice": 2,
+          "impactPriceWorker": 1
+        },
+        {
+          "name": "option2",
+          "checkboxGroup": "DespachoFlexible",
+          "description": "short description about despacho flexible",
+          "checked": true,
+          "fixed": false,
+          "impactPrice": 2,
+          "impactPriceWorker": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "radioGroup": "interested",
+      "name": "Sala de reuniones",
+      "image": "https://simplework.es/wp-content/uploads/2016/12/Sala-1-1-400x284.png",
+      "description": "Descripción de salas de reuniones y sus ventajas.",
+      "calculationVariables": { "basePrice": 3, "workerPrice": 1 },
+      "checkboxes": [
+        {
+          "name": "option1",
+          "checkboxGroup": "SalaReuniones",
+          "description": "short description about sala de reuniones",
+          "checked": true,
+          "fixed": true,
+          "impactPrice": 2,
+          "impactPriceWorker": 1
+        },
+        {
+          "name": "option2",
+          "checkboxGroup": "SalaReuniones",
+          "description": "short description about sala de reuniones",
+          "checked": false,
+          "fixed": false,
+          "impactPrice": 2,
+          "impactPriceWorker": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "radioGroup": "interested",
+      "name": "Coworking",
+      "image": "https://simplework.es/wp-content/uploads/2019/06/oficinas-en-valencia-400x284.jpg",
+      "description": "Descripción de coworking y sus ventajas.",
+      "calculationVariables": { "basePrice": 2, "workerPrice": 1 },
+      "checkboxes": [
+        {
+          "name": "option1",
+          "checkboxGroup": "Coworking",
+          "description": "short description about coworking",
+          "checked": false,
+          "fixed": false,
+          "impactPrice": 2,
+          "impactPriceWorker": 1
+        },
+        {
+          "name": "option2",
+          "checkboxGroup": "Coworking",
+          "description": "short description about  coworking",
+          "checked": false,
+          "fixed": false,
+          "impactPrice": 2,
+          "impactPriceWorker": 1
+        }
+      ]
+    }
+  ]
+}

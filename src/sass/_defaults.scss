@@ -1,0 +1,44 @@
+html,
+body {
+  height: inherit;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: $primary;
+}
+
+a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.disabled {
+  opacity: 0.5;
+}
+
+h5,
+p {
+  color: $text;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: $spacing;
+}

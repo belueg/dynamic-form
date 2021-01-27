@@ -1,0 +1,28 @@
+{
+  "title": "¿Qué tienes ahora?",
+  "subtitle": "Selecciona cómo trabajas ahora",
+  "selected": 1,
+  "options": [
+    {
+      "id": 1,
+      "radioGroup": "now",
+      "name": "Oficina",
+      "image": "https://i.imgur.com/2EEW2rJ.jpeg",
+      "calculationVariables": { "basePrice": 9, "workerPrice": 3 }
+    },
+    {
+      "id": 2,
+      "radioGroup": "now",
+      "name": "Desde casa",
+      "image": "https://i.imgur.com/A3GZsNx.jpeg",
+      "calculationVariables": { "basePrice": 0, "workerPrice": 0 }
+    },
+    {
+      "id": 3,
+      "radioGroup": "now",
+      "name": "Coworking",
+      "image": "https://i.imgur.com/RZ8I7qa.jpeg",
+      "calculationVariables": { "basePrice": 6, "workerPrice": 2 }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "button": "Ver desglose",
+  "sendDataBtn": "Enviar",
+  "title": "Rellena con tus datos para obtener un presupuesto personalizado",
+  "subtitle": "Añade tus datos",
+  "nameLabel": "Tu nombre",
+  "emailLabel": "Tu email",
+  "phoneLabel": "tu teléfono",
+  "commentsLabel": "Comentarios",
+  "commentsPlaceholder": "¿Algo que quieras comentarnos?",
+  "userData": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "comments": ""
+  }
+}
