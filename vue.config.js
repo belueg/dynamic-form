@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/calculadora',
+  publicPath: '/dynamic-form',
   configureWebpack: {
     devtool: 'source-map'
   },
